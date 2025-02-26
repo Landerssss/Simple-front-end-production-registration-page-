@@ -1,0 +1,14 @@
+{
+    "name": "user-api",
+    "version": "1.0.0",
+    "description": "User registration and login API",
+    "main": "app.js",
+    "scripts": {
+        "start": "node app.js"
+    },
+    "dependencies": {
+        "bcryptjs": "^2.4.3",
+        "express": "^4.18.2",
+        "mongoose": "^8.0.0"
+    }
+}
